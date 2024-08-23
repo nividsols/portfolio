@@ -64,4 +64,3 @@ Go to the following URL to access the admin dashboard.
 ```bash
 http://localhost:8000/admin/
 ```
-# nivid_sols
